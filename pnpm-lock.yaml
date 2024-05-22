@@ -29,9 +29,6 @@ importers:
       react-hook-form:
         specifier: ^7.51.4
         version: 7.51.4(react@18.3.1)
-      react-password-checklist:
-        specifier: ^1.6.0
-        version: 1.6.0(react@18.3.1)
       react-router-dom:
         specifier: ^6.23.1
         version: 6.23.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -2161,11 +2158,6 @@ packages:
 
   react-is@18.3.1:
     resolution: {integrity: sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==}
-
-  react-password-checklist@1.6.0:
-    resolution: {integrity: sha512-jw/U4+3SFGeBGcQyokEtFFqLQpuCFnDUFLGHdvtopyV5lCgRo4YlZORRCusY7SP8W+05+1oYE6caEE4V5O59Ng==}
-    peerDependencies:
-      react: '>16.0.0-alpha || >17.0.0-alpha || >18.0.0-alpha'
 
   react-refresh@0.14.2:
     resolution: {integrity: sha512-jCvmsr+1IUSMUyzOkRcvnVbX3ZYC6g9TDrDbFuFmRDq7PD4yaGbLKNQL6k2jnArV8hjYxh7hVhAZB6s9HDGpZA==}
@@ -4975,10 +4967,6 @@ snapshots:
   react-is@16.13.1: {}
 
   react-is@18.3.1: {}
-
-  react-password-checklist@1.6.0(react@18.3.1):
-    dependencies:
-      react: 18.3.1
 
   react-refresh@0.14.2: {}
 
